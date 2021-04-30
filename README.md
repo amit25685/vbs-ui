@@ -1,2 +1,1 @@
-# vbs-ui
-vbs ui
+# VidywatiSolutiion-UI
